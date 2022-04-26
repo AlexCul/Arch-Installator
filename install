@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./hostname &&
+./time &&
+./localization &&
+./users &&
+./etc &&
+umount -a &&
+reboot

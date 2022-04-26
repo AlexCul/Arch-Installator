@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# You can add an user with home directory & root privileges by the following command:
+useradd -m -G wheel -s /bin/bash any_username
+

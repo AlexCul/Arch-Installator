@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Command to set the timezone
+ln -sf /usr/share/zoneinfo/Region(Europe,Asia,etc.)/City(Chisinau,Dubai,etc.) /etc/localtime
+# Command to synchronize 
+hwclock --systohc

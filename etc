@@ -3,12 +3,17 @@
 
 ### Desktop Enviroments (DE)
 ## KDE Plasma
-#
+#pacman -S plasma --noconfirm
 ## Gnome
-#
+#pacman -S gnome --noconfirm
 ## MATE
-#
+#pacman -S mate --noconfirm
 ## XFCE
-#
-##
+#pacman -S xfce4 --noconfirm
+
+### Display Manager (DM)
+## SDDM
+#pacman -S sddm --noconfirm
+## GDM
+#pacman -S gdm --noconfirm
 

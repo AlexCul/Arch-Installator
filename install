@@ -5,5 +5,4 @@
 ./localization &&
 ./users &&
 ./etc &&
-umount -a &&
 reboot

@@ -14,6 +14,8 @@
 ### Display Manager (DM)
 ## SDDM
 #pacman -S sddm --noconfirm
+#systemctl enable sddm
 ## GDM
 #pacman -S gdm --noconfirm
+#systemctl enable gdm
 

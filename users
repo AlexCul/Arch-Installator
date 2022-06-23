@@ -2,4 +2,8 @@
 
 # You can add an user with home directory & root privileges by the following command:
 useradd -m -G wheel -s /bin/bash any_username
+echo "Choose password for your user"
+passwd any_username
+echo "Choose password for root user"
+passwd root
 

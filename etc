@@ -4,11 +4,11 @@
 ### Desktop Enviroments (DE)
 ## KDE Plasma
 #pacman -S plasma --noconfirm
-## Gnome
+## GNOME
 #pacman -S gnome --noconfirm
 ## MATE
 #pacman -S mate --noconfirm
-## XFCE
+## Xfce
 #pacman -S xfce4 --noconfirm
 
 ### Display Manager (DM)

@@ -488,5 +488,5 @@ echo "#aa_DJ.UTF-8 UTF-8
 #zh_TW BIG5  
 #zu_ZA.UTF-8 UTF-8  
 #zu_ZA ISO-8859-1" > /etc/locale.gen
-locale-gen
 echo "LANG=your_option.UTF-8" > /etc/locale.conf
+locale-gen
